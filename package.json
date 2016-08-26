@@ -1,0 +1,26 @@
+{
+  "name": "webpack-experiment-2",
+  "version": "1.0.0",
+  "description": "Learning how to use webpack with ReactJS",
+  "main": "index.js",
+  "scripts": {
+    "pack": "NODE_ENV=production webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msal98/webpack-experiment-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msal98/webpack-experiment-2/issues"
+  },
+  "homepage": "https://github.com/msal98/webpack-experiment-2#readme",
+  "devDependencies": {
+    "webpack": "^1.13.2"
+  },
+  "dependencies": {
+    "jquery": "^3.1.0",
+    "lodash": "^4.15.0"
+  }
+}
