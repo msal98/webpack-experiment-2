@@ -1,0 +1,28 @@
+{
+  "name": "webpack-experiment",
+  "version": "0.0.0",
+  "description": "Learning how to use webpack with ReactJS",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msal98/webpack-experiment.git"
+  },
+  "author": "Matthew Salvatore <msal98@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msal98/webpack-experiment/issues"
+  },
+  "homepage": "https://github.com/msal98/webpack-experiment#readme",
+  "devDependencies": {
+    "css-loader": "^0.24.0",
+    "style-loader": "^0.13.1",
+    "webpack": "^1.13.2",
+    "webpack-dev-server": "^1.15.0"
+  },
+  "dependencies": {
+    "jquery": "^3.1.0"
+  }
+}
